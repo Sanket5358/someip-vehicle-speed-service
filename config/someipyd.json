@@ -1,0 +1,8 @@
+{
+    "socket_path": "/tmp/someipyd.sock",
+    "sd_address": "224.224.224.245",
+    "sd_port": 30490,
+    "interface": "127.0.0.1",
+    "log_level": "INFO",
+    "use_tcp": false
+}
